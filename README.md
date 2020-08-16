@@ -1,2 +1,7 @@
 # hello-world
-All of my ideas and projects.
+Hi Humans.
+
+Loco Codo here.
+I love coffee even though
+im not supposed to have it.
+I will go to the moon and beyond.
